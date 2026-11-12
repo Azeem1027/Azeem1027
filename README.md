@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=238636&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%2F+ML+Researcher;Competitive+Programmer;System+Automator" alt="Typing SVG" />
 </p>
 
-I am a dedicated, high-achieving **Computer Science undergraduate student** at the **School of Electrical Engineering and Computer Science (SEECS), NUST**, Islamabad (CGPA: 3.61/4.00). 
+I am a dedicated, high-achieving **Computer Science undergraduate student** at the **School of Electrical Engineering and Computer Science (SEECS), NUST**, Islamabad . 
 
 My engineering core centers on bridging the gap between rigorous mathematical abstractions and highly localized, high-performance software engineering. I treat software architecture not just as syntax execution, but as an optimization domain focused on algorithmic efficiency, system reliability, and secure multi-tier communication. 
 
